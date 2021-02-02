@@ -1,0 +1,174 @@
+
+:root{
+    
+   --color1: #222831;
+}
+    
+   /* start navbar */
+    
+.navbar{
+    opacity: 0.9;filter: opacity=90!important;
+}
+.navbar-brand{
+    color: white!important;
+    font-size: 15px;
+    letter-spacing: 5px;
+    padding: 3px 15px !important;
+}
+.navbar-brand:hover{
+    background-color: #777!important;
+    padding: 3px 15px;
+}
+
+.nav1{
+    color: white!important;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-decoration-line: none!important;
+}
+
+.nav1:hover{
+    background-color: #777!important;
+    padding: 10px 15px;
+}
+.far{
+    font-size: 50px!important;
+}
+
+
+
+.dropdown-item{
+    letter-spacing: 4px!important;
+}
+.dropdown-item:hover{
+    background-color: red!important;
+}
+
+.carousel-control-next{
+    border-radius: 50%!important;
+}
+
+
+
+
+
+
+  /*** THE BAND ***/
+.container .pho{
+    border-radius: 50%!important;
+    opacity: 0.8;filter: alpha(opacity=80);
+}
+.hh{
+    font-size: 15px!important;
+    opacity: 0.7;filter: alpha(opacity=70);
+}
+
+.th{
+    letter-spacing: 10px!important;
+    padding-top: 50px;
+}
+.pho{
+    box-shadow: 10px 10px 5px!important;
+}
+.pp{
+    opacity: 0.6;filter: opacity=60!important;
+}
+
+
+    /*** TOUR ***/
+.jumbotron{
+    background-color: #222831!important; 
+    text-decoration-color: white!important;
+}
+
+.list-group-item{
+    color: black!important;
+}
+
+
+.bbb{
+    background-color: red!important;
+    color: white;
+    font-size: 13px;
+    padding: 5px 10px;
+}
+
+
+
+.boto{
+    background-color: black!important;
+    color: white;
+    border: 2px solid;
+    padding: 10px 25px;
+}
+.boto:hover{
+     background-color: white!important;
+    color: black;
+}
+
+.badge{
+    background-color: black!important;
+}
+
+
+
+/**start contact**/
+
+.fas fa-map-marker-alt{
+    font-size: 50px!important;
+}
+
+.bo{
+    background-color: black!important;
+    color: white;
+    border: 2px solid;
+    padding: 15px 25px;
+}
+.bo:hover{
+     background-color: white!important;
+    color: black;
+
+}
+
+/******From The Blog*****/
+.f{
+    letter-spacing: 1rem!important;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.nav-link{
+    color: black!important;
+}
+
+.tab-pane{
+    font-size: 25px!important;
+    opacity: 0.7;filter: opacity=70;
+}
+
+
+
+
+
+
+
+  /*** footer ***/
+.fas{
+    font-size: 30px!important;
+    color: white;
+}
+
+.fo{
+    background-color: #090909!important;
+    padding:  60px;
+    text-align: center;
+}
+.fo .h{
+    font-size: 15px!important;
+    color: white;
+}
+
+
+
+
+
